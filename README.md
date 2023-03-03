@@ -39,7 +39,7 @@ Marque esse projeto com uma estrela 🌟
 
 Desafio plus: implementar testes unitários e alcançar 100% de coverage (avançado)
 
-### Links mostrados nos aulas:
+### Links mostrados nas aulas:
 - Reuni todos os links em [referências](./referencias.md)
 ### Considerações
 - Tire suas dúvidas sobre os desafios em nossa comunidade, o objetivo é você aprender de forma divertida. Surgiu dúvidas? Pergunte por lá!

@@ -6,7 +6,7 @@ Marque esse projeto com uma estrela 🌟
 
 ## Preview
 <img width=100% src="./initial-template/assets/demo-template-lg.gif">
-- Versão final [https://gabriespontoni.github.io/semana-javascript-expert07/classes/class04/pages/titles/](https://gabriespontoni.github.io/semana-javascript-expert07/classes/class04/pages/titles/)
+- Versão final https://gabriespontoni.github.io/semana-javascript-expert07/classes/class04/pages/titles
 
 ## Pre-reqs
 - Este projeto foi criado usando Node.js v19.6
